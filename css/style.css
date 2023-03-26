@@ -81,10 +81,6 @@ p{
   border: 3px solid;
   text-align: center;
 }
-#IIT:hover {
-  width: 30%;
-  height: 30%;
-}
 #class:hover{
   display:block;
   border: 0px;
