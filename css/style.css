@@ -74,6 +74,9 @@ p{
 #IIT:hover {
   width: 30%;
   height: 30%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 #class{
   text-decoration: underline;
