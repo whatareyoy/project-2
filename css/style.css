@@ -134,7 +134,6 @@ p{
   border: 3px solid;
   position: relative;
   width: 33.33%;
-  float: left;
 }
 #guitar, #Audio, #sheet,{
   display: block;
