@@ -136,7 +136,7 @@ p{
   width: 33.33%;
   float: right;
 }
-#guitar, #Audio, #sheet,{
+#guitar, #Audio, #sheet{
   display: block;
   margin-left: auto;
   margin-right: auto;
