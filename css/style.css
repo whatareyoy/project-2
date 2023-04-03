@@ -134,11 +134,11 @@ p {
   border: 3px solid;
   position: relative;
   width: 33.33%;
-  float: left;
-  float: left;
+  float: right;
 }
 #guitar, #Audio, #sheet{
   display: block;
   margin-left: auto;
   margin-right: auto;
+  float: right;
 }
