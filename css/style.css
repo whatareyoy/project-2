@@ -124,7 +124,6 @@ p {
 }
 #Hobbies h2, #Audiobooks h2, #Books h2, #Games h2{
   text-decoration: underline;
-  float: left;
 }
 #Hobbies p, #Audiobooks p, #Books p, #Games p{
   display:inline-block;
