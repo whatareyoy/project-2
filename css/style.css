@@ -14,12 +14,14 @@ ul li {
   color: #fff;
   text-decoration: none;
   color: black;
+  float: left;
 }
 h3, h2 {
   background: linear-gradient(180deg,rgba(255,255,255,0) 50%, #FFD0AE 50%);
 }
 p{
   color: black;
+  float: left;
 }
 #navbar{
   background-color: rgb(255, 255, 255);
