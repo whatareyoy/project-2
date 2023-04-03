@@ -135,6 +135,7 @@ p {
   position: relative;
   width: 33.33%;
   float: left;
+  float: left;
 }
 #guitar, #Audio, #sheet{
   display: block;
