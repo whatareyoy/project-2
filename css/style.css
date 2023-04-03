@@ -1,14 +1,14 @@
 h1 { 
   border: 3px solid;
   text-align: center;
-}
-body {
+	}
+ body {
   font-size: 20px;
   text-align: center;
   border: 0px;
   background-color: red;
   font-family: Arial;
-}
+ }
 ul li {
   display: block;
   color: #fff;
@@ -18,7 +18,7 @@ ul li {
 h3, h2 {
   background: linear-gradient(180deg,rgba(255,255,255,0) 50%, #FFD0AE 50%);
 }
-p {
+p{
   color: black;
 }
 #navbar{
@@ -34,12 +34,14 @@ p {
   border-bottom:3px solid rgb(135, 135, 135);
   border-top:3px solid rgb(135, 135, 135);
 }
+
 #navbar ul{
   list-style-type:none;
   position:relative;
   left:50%;
   float:left;
 }
+
 #navbar ul li{
   float:left;
   position:relative;
@@ -47,11 +49,13 @@ p {
   border-right: 2px solid rgb(135, 135, 135);
   border-left: 2px solid rgb(135, 135, 135);
 }
+
 #navbar ul li a{
   display:block;
   padding: 20px 20px;
   text-decoration:none;
 }
+
 #navbar ul li a:hover{
   background-color: #000;
 }
@@ -67,14 +71,6 @@ p {
  text-align: center;
  text-decoration: underline;
 }
-#IIT:hover {
-  width: 30%;
-  height: 30%;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  float: left;
-}
 #class{
   text-decoration: underline;
 }
@@ -84,6 +80,13 @@ p {
   display: block;
   border: 3px solid;
   text-align: center;
+}
+#IIT:hover {
+  width: 30%;
+  height: 30%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 #class:hover{
   display:block;
@@ -133,7 +136,7 @@ p {
   width: 33.33%;
   float: left;
 }
-#guitar, #Audio, #sheet{
+#guitar, #Audio, #sheet,{
   display: block;
   margin-left: auto;
   margin-right: auto;
