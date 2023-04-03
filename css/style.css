@@ -18,6 +18,8 @@ ul li {
 }
 h3, h2 {
   background: linear-gradient(180deg,rgba(255,255,255,0) 50%, #FFD0AE 50%);
+  postion: relative;
+  top: 4px;
 }
 p {
   color: black;
