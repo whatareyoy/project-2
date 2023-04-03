@@ -107,23 +107,31 @@ p{
   border: 0px;
   border: 3px solid;
   margin: 10px;
+  background-color: white;
+  float: left;
 }
 #Languages{
   display:block;
   border: 0px;
   border: 3px solid;
   margin: 10px;
+  background-color: white;
+  float: left;
 }
 #Volunteer{
   display:block;
   border: 0px;
   border: 3px solid;
   margin: 10px;
+  background-color: white;
+  float: left;
 }
 #Experience{
   display:block;
   border: 2px;
   border: 3px solid;
+  background-color: white;
+  float: left;
 }
 #Hobbies h2, #Audiobooks h2, #Books h2, #Games h2{
   text-decoration: underline;
