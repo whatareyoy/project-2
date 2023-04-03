@@ -1,7 +1,7 @@
 h1 { 
   border: 3px solid;
   text-align: center;
-  float: left;
+  
 }
 body {
   font-size: 20px;
@@ -9,14 +9,12 @@ body {
   border: 0px;
   background-color: red;
   font-family: Arial;
-  float: left;
 }
 ul li {
   display: block;
   color: #fff;
   text-decoration: none;
   color: black;
-  float: left;
 }
 h3, h2 {
   background: linear-gradient(180deg,rgba(255,255,255,0) 50%, #FFD0AE 50%);
@@ -134,6 +132,7 @@ p {
   border: 3px solid;
   position: relative;
   width: 33.33%;
+  float: left;
 }
 #guitar, #Audio, #sheet{
   display: block;
